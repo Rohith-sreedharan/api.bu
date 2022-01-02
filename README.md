@@ -2,7 +2,7 @@
 
 A list of available apis<br>
 URL OF IT = https://apibu.herokuapp.com/  <br>
-alternate = www.apibu.ml/ <br>
+
 <br>
 | Name | Description | Url |
 |:-----|:------------|:----|
