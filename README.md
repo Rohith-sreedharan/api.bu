@@ -3,7 +3,6 @@
 A list of available apis<br>
 URL OF IT = https://apibu.herokuapp.com/  <br>
 
-<br>
 | Name | Description | Url |
 |:-----|:------------|:----|
 | Amazon | Fetches search results from www.amazon.com | `/amazon?query=Keyword&page=1 `|
